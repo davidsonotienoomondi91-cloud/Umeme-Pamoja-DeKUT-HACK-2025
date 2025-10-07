@@ -11,12 +11,6 @@ Watch our full product walkthrough which demonstrates the anonymous user journey
 
 **[>> Click Here to Watch the Demo on YouTube <<](https://youtu.be/UY-UcR1h_4U?si=AsI6-H5MbkHv3x6Z)**
 
-## 📖 Presentation Slides
-
-View our detailed presentation slides that cover the problem, our solution, business plan, and future vision.
-
-**[>> Click Here to View the Presentation PDF <<]([LINK-TO-YOUR-PRESENTATION-PDF])**
-*Note: Please upload your presentation as a PDF to this repository and replace the link above.*
 
 ---
 
